@@ -1,0 +1,15 @@
+C:\Users\LipinDev\JogoDo\JogoDoBicho\obj\Debug\net6.0\JogoDoBicho.csproj.AssemblyReference.cache
+C:\Users\LipinDev\JogoDo\JogoDoBicho\obj\Debug\net6.0\JogoDoBicho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LipinDev\JogoDo\JogoDoBicho\obj\Debug\net6.0\JogoDoBicho.AssemblyInfoInputs.cache
+C:\Users\LipinDev\JogoDo\JogoDoBicho\obj\Debug\net6.0\JogoDoBicho.AssemblyInfo.cs
+C:\Users\LipinDev\JogoDo\JogoDoBicho\obj\Debug\net6.0\JogoDoBicho.csproj.CoreCompileInputs.cache
+C:\Users\LipinDev\JogoDo\JogoDoBicho\bin\Debug\net6.0\JogoDoBicho.exe
+C:\Users\LipinDev\JogoDo\JogoDoBicho\bin\Debug\net6.0\JogoDoBicho.deps.json
+C:\Users\LipinDev\JogoDo\JogoDoBicho\bin\Debug\net6.0\JogoDoBicho.runtimeconfig.json
+C:\Users\LipinDev\JogoDo\JogoDoBicho\bin\Debug\net6.0\JogoDoBicho.dll
+C:\Users\LipinDev\JogoDo\JogoDoBicho\bin\Debug\net6.0\JogoDoBicho.pdb
+C:\Users\LipinDev\JogoDo\JogoDoBicho\obj\Debug\net6.0\JogoDoBicho.dll
+C:\Users\LipinDev\JogoDo\JogoDoBicho\obj\Debug\net6.0\refint\JogoDoBicho.dll
+C:\Users\LipinDev\JogoDo\JogoDoBicho\obj\Debug\net6.0\JogoDoBicho.pdb
+C:\Users\LipinDev\JogoDo\JogoDoBicho\obj\Debug\net6.0\JogoDoBicho.genruntimeconfig.cache
+C:\Users\LipinDev\JogoDo\JogoDoBicho\obj\Debug\net6.0\ref\JogoDoBicho.dll
